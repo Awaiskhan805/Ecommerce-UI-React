@@ -1,20 +1,67 @@
-# Ecommerce UI (React.js)
+# E-Commerce Website
 
-This project is a modern **Ecommerce User Interface** built using **React.js**.  
-It focuses on responsive layouts, reusable components, and a smooth user experience.  
+A Ecommerce Website made with React.js Framework.
+
+
+## Demo
+
+https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
-- Product listing UI
-- Shopping cart design
-- Responsive design with Flexbox & Grid
-- Reusable React components
+
+- Easy to integrate with Backend
+- Fully Responsive
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ssahibsingh/React_E-Commerce
+```
+
+Go to the project directory
+
+```bash
+  cd React_E-Commerce
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+
 
 ## Tech Stack
-- React.js
-- CSS / Tailwind
-- JavaScript (ES6+)
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Awaiskhan805/Ecommerce-UI-React.git
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Fake Store API](https://fakestoreapi.com/)
+
+## Contributing
+
+Contributions are always welcome!
+Just raise an issue, we will discuss it.
+
+
+## Feedback
+
+If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+
+
