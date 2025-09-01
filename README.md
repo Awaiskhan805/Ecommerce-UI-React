@@ -1,63 +1,62 @@
-E-Commerce Website
+React E-Commerce Website
 
-A E-Commerce Website built with React.js Framework by Muhammad Awais (Awaiskhan805).
+An advanced E-Commerce Website built with React.js Framework by Muhammad Awais (Awaiskhan805)
 
-Demo
+🚀 Demo
 
 👉 Live Demo
 
-Features
+✨ Features
 
-Easy to integrate with Backend
+✔️ Easy to integrate with Backend (Node.js / Express / APIs)
+✔️ Fully Responsive & Mobile-Friendly
+✔️ Modern UI with Reusable React Components
+✔️ Product Listing, Search & Detail Pages
+✔️ State Management with Redux
+✔️ API Integration (Fake Store API)
 
-Fully Responsive
+📸 Screenshots
 
-Modern UI with React Components
+Add screenshots here (use ![alt text](screenshot-link.png))
 
-Product Listing & Detail Pages
-
-Screenshots
-
-Run Locally
+🛠️ Run Locally
 
 Clone the project
 
-  git clone https://github.com/Awaiskhan805/React_E-Commerce
+git clone https://github.com/Awaiskhan805/React_E-Commerce
 
 
 Go to the project directory
 
-  cd React_E-Commerce
+cd React_E-Commerce
 
 
 Install dependencies
 
-  npm install
+npm install
 
 
 Start the server
 
-  npm start
+npm start
 
-Tech Stack
+🧑‍💻 Tech Stack
 
-React
+Frontend: React, Redux, Bootstrap
 
-Redux
+API: Fake Store API
 
-Bootstrap
+Tools: npm, Git
 
-Fake Store API
-
-Contributing
+🤝 Contributing
 
 Contributions are always welcome!
-Just raise an issue, and we will discuss it.
+👉 Just raise an issue or submit a pull request, and let’s discuss improvements.
 
-Feedback
+📬 Feedback & Contact
 
-If you have any feedback, please reach out to me here 👇
+💌 Email: pbsrorwp@gmail.com
 
-📩 Email: pbsrorwp@gmail.com
+🌐 Portfolio: GitHub – Awaiskhan805
 
-🌐 Portfolio: Awaiskhan805 GitHub
+⚡ Built with ❤️ by Muhammad Awais
